@@ -1,5 +1,5 @@
 ﻿namespace GraphCommon;
-public class Class1
+public interface IGraph
 {
 
 }
