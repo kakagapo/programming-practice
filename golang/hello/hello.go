@@ -23,5 +23,4 @@ func main() {
 		// using built-in function and not the one from fmt package
 		println(uuid.New().String())
 	}
-
 }

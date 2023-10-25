@@ -14,7 +14,7 @@ You probably should adjust the generate file to fit your needs.
 
 Example output of `python -m pip freeze`
 
-```
+```python
 certifi==2022.9.24
 charset-normalizer==2.1.1
 idna==3.4

@@ -17,6 +17,7 @@ go mod edit -replace something.something.com/modulename=../modulename
 ```
 
 ## Standard files in a module folder
+
 Each module has some pre-defined files under it.
 
 - `go.mod` -> contains details about this module and the modules it is dependent on using a bunch of directives. More info can be found [here](https://go.dev/doc/modules/gomod-ref).
